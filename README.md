@@ -1,3 +1,3 @@
-# Awesome_Tensorflow_Tutorial
+# awesome_tensorflow_tutorial
 
-Insert Tensorflow
+本文档来源于谷歌的三篇Blog翻译和进行代码补充。分别是以下文章。
